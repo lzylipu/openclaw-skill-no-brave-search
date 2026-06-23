@@ -12,7 +12,7 @@ metadata:
   hermes:
     tags: [brave, search, bing, google, duckduckgo, 搜索]
     related_skills: []
-    homepage: https://github.com/lzylipu/openclaw-skill-no-brave-search
+    homepage: https://github.com/lzylipu/skill-no-brave-search
     category: personal
     skill_type: constraint
 ---
